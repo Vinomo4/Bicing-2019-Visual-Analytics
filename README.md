@@ -19,12 +19,11 @@ These stations were selected according to the following criteria:
 > * 98: Station located near Sants-Estació. We selected this station because it's one of the biggest public transport stations in Barcelona and has subway, bus and train connections.
 > * 334: Station located in the Sarrià neighbourhood. This location was selected in order to see if a more wealthy neighbourhood behaves differently than the rest of the selected stations. Also, we found pretty interesting how its location would affect the daily use, as it's located in a high-altitude zone of Barcelona.
 
+*Note: Fragment extracted form the [Visualizations](./Static/Visualizations.ipynb) file.*
+
 <p align="center">
   <img src='README Images/Overview.png'/ width = 500>
 </p>
-
-
-*Note: Fragment extracted form the [Visualizations](./Static/Visualizations.ipynb) file.*
 
 ### 1.1 Used visualizations 
 
