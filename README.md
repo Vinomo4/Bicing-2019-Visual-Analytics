@@ -11,7 +11,7 @@ This project is divided into two sections:
 
 ## 1. Static visualizations
 
-In this section, three different [Bicing®](https://www.bicing.barcelona/es) stations were selected (302, 98,334) to compare their evolution among the selected month (October).
+In this section, three different [Bicing®](https://www.bicing.barcelona/es) stations were selected (*302*, *98* and *334*) to compare their evolution among the selected month (October).
 
 These stations were selected according to the following criteria:
 
@@ -22,7 +22,7 @@ These stations were selected according to the following criteria:
 *Note: Fragment extracted form the [`Visualizations`](./Static/Visualizations.ipynb) file.*
 
 <p align="center">
-  <img src='README Images/Overview.png'/ width = 500>
+  <img src='README Images/Overview.png'>
 </p>
 
 ### 1.1 Used visualizations 
@@ -33,7 +33,7 @@ These stations were selected according to the following criteria:
 * Juxtaposed bar charts
 
 <p align="center">
-  <img src='README Images/Heatmap.png'/ width = 1000>
+  <img src='README Images/Heatmap.png'>
 </p>
 
 
@@ -50,7 +50,7 @@ The files contained in this section are:
 In this section, the data of all [Bicing®](https://www.bicing.barcelona/es) stations was used. The objective of this unit consists of evaluating the activity by district produced in Barcelona in October 2019.
 
 <p align="center">
-  <img src='README Images/Choropleth.png'/ width = 500>
+  <img src='README Images/Choropleth.png'>
 </p>
 
 
@@ -64,7 +64,7 @@ In this section, the data of all [Bicing®](https://www.bicing.barcelona/es) sta
 * Line chart
 
 <p align="center">
-  <img src='README Images/Bubble.png'/ width = 500>
+  <img src='README Images/Bubble.png'>
 </p>
 
 
