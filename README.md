@@ -5,6 +5,7 @@
 The aim of this project is to develop effective, expressive, appropriate and information-rich visualizations that allow the user to identify with a glance the behaviour of the [Bicing®](https://www.bicing.barcelona/es) users of a particular Barcelona area/station, compare them attending to different criteria (time granularity, day of the week/weekends *e.g.*) and ease the exploratory and confirmative analysis of the data.
 
 *Note: To perform such visualizations, the [Altair library](https://altair-viz.github.io/) has been used.*
+
 ---
 This project is divided into two sections:
 
