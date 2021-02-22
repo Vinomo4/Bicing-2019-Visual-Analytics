@@ -19,7 +19,7 @@ These stations were selected according to the following criteria:
 > * 98: Station located near Sants-Estació. We selected this station because it's one of the biggest public transport stations in Barcelona and has subway, bus and train connections.
 > * 334: Station located in the Sarrià neighbourhood. This location was selected in order to see if a more wealthy neighbourhood behaves differently than the rest of the selected stations. Also, we found pretty interesting how its location would affect the daily use, as it's located in a high-altitude zone of Barcelona.
 
-*Note: Fragment extracted form the [Visualizations](./Static/Visualizations.ipynb) file.*
+*Note: Fragment extracted form the [`Visualizations`](./Static/Visualizations.ipynb) file.*
 
 <p align="center">
   <img src='README Images/Overview.png'/ width = 500>
@@ -33,7 +33,7 @@ These stations were selected according to the following criteria:
 * Juxtaposed bar charts
 
 <p align="center">
-  <img src='README Images/Heatmap.png'/ width = 500>
+  <img src='README Images/Heatmap.png'/ width = 1000>
 </p>
 
 
@@ -43,7 +43,7 @@ The files contained in this section are:
 
 * [`Data cleaning script`](./Static/Data Cleaning.ipynb) used to cleanse the [Open Data BCN original file](https://opendata-ajuntament.barcelona.cat/data/es/dataset/estat-estacions-bicing), as well as explanations about the decisions made during the process.
 * [`Clean data`](./Static/CleanData.csv): CSV file obtained as the output of the cleaning process.
-* The set of [visualitzations and their respective interpretations and comparisons](./Static/Visualizations.ipynb) about the behaviour of the three selected stations.
+* The set of [`visualitzations and their respective interpretations and comparisons`](./Static/Visualizations.ipynb) about the behaviour of the three selected stations.
 
 ## 2. Interactive visualizations
 
@@ -82,8 +82,8 @@ The files contained in this section are:
 
 * [`Data cleaning script`](./Interactive/Preprocessing.ipynb) used to cleanse and daily resume the [Open Data BCN original file](https://opendata-ajuntament.barcelona.cat/data/es/dataset/estat-estacions-bicing), as well as explanations about the decisions made during the process.
 * [`Clean data`](./Interactive/CleanData.csv): CSV file obtained as the output of the cleaning process.
-* An auxiliar [Bicing® geospatial info](./Interactive/bicing_station_districts.csv) .CSV file used to develop the visualitzations containing maps.
-* The set of [visualitzations and their respective interpretations and comparisons](./Interactive/Visualizations.ipynb) about the behaviour of the different districts.
+* An auxiliar [`Bicing® geospatial info`](./Interactive/bicing_station_districts.csv) .CSV file used to develop the visualitzations containing maps.
+* The set of [`visualitzations and their respective interpretations and comparisons`](./Interactive/Visualizations.ipynb) about the behaviour of the different districts.
 
 ---
 *Note: The rest of the files in the master branch are auxiliary or license related*
